@@ -1,0 +1,18 @@
+toem.impulse.ui/fragment.e4xmi#_OMmlYFKEEeiJAJSywQWx5A"/>
+        </children>
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_ScunmX-ZEey3A-2qEsY5vw" elementId="de.toem.impulse.toolbarcontribution.viewer.main.15.menu.5" contributorURI="platform:/plugin/de.toem.impulse.ui" label="%command.name.view.reset" tooltip="%command.description.view.reset">
+          <command href="platform:/plugin/de.toem.impulse.ui/fragment.e4xmi#_OOW44FKEEeiJAJSywQWx5A"/>
+        </children>
+      </menu>
+      <command href="platform:/plugin/de.toem.impulse.ui/fragment.e4xmi#_eYQxIFKDEeiJAJSywQWx5A"/>
+    </children>
+    <children xsi:type="menu:ToolControl" xmi:id="_Scunmn-ZEey3A-2qEsY5vw" elementId="de.toem.impulse.toolControl.viewer.view" contributorURI="platform:/plugin/de.toem.impulse.ui" contributionURI="bundleclass://de.toem.eclipse.toolkits.ui/de.toem.eclipse.toolkits.parts.PartToolControl"/>
+    <children xsi:type="menu:HandledToolItem" xmi:id="_Scunm3-ZEey3A-2qEsY5vw" elementId="de.toem.impulse.toolbarcontribution.viewer.main.18" contributorURI="platform:/plugin/de.toem.impulse.ui" label="%command.name.geometry.signals" iconURI="platform:/plugin/de.toem.impulse.ui/icons/commands/de.toem.impulse.commands.geometry.signals.png" tooltip="%command.description.geometry.signals" type="Check">
+      <command href="platform:/plugin/de.toem.impulse.ui/fragment.e4xmi#_APFFIFKFEeiJAJSywQWx5A"/>
+    </children>
+    <children xsi:type="menu:HandledToolItem" xmi:id="_ScunnH-ZEey3A-2qEsY5vw" elementId="de.toem.impulse.toolbarcontribution.viewer.main.19" contributorURI="platform:/plugin/de.toem.impulse.ui" label="%command.name.geometry.details" iconURI="platform:/plugin/de.toem.impulse.ui/icons/commands/de.toem.impulse.commands.geometry.details.png" tooltip="%command.description.geometry.details" type="Check">
+      <command href="platform:/plugin/de.toem.impulse.ui/fragment.e4xmi#_ABR5sFKFEeiJAJSywQWx5A"/>
+    </children>
+  </toolBarContributions>
+  <toolBarContributions xmi:id="_Scy4wH-ZEey3A-2qEsY5vw" elementId="de.toem.impulse.toolbarcontribution.samples.main" contributorURI="platform:/plugin/de.toem.impulse.ui" accessibilityPhrase="" parentId="de.toem.impulse.toolbar.samples.main">
+    <children xsi:type="menu:HandledToolItem" xmi:id="_Scy4wX-ZEey3A-2qEsY5vw" elementId="de.toem.impulse.toolbarcontribution.samples.main.0" contributorURI="platform:/plugin/de.toem.impulse.ui" label="%command.name.views.inputSync" icon
